@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0d07833d5b7630a48b6cdada8139240d
+timeCreated: 1490885160
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microgramma D OT
+  fontNames:
+  - Microgramma D OT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9e62c4f0661562b4da7b69b3e31e0a1e
+timeCreated: 1490884944
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Police Future
+  fontNames:
+  - Police Future
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
